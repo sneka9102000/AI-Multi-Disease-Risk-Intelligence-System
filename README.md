@@ -1,6 +1,6 @@
 # AI-Assisted Multi-Disease Risk Intelligence System Using Explainable AI
 
-## IIT AI Capstone Project
+## AI Capstone Project
 
 This project predicts multiple disease risks using Machine Learning and Deep Learning techniques.
 
